@@ -1,0 +1,13 @@
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\bin\Debug\TD_Members.mdf
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\bin\Debug\TD_Members_log.ldf
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\bin\Debug\TechDevs_Member Maintenance.exe.config
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\bin\Debug\TechDevs_Member Maintenance.exe
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\bin\Debug\TechDevs_Member Maintenance.pdb
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member Maintenance.csproj.AssemblyReference.cache
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member_Maintenance.InsertUI.resources
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member_Maintenance.MainUI.resources
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member_Maintenance.Properties.Resources.resources
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member Maintenance.csproj.GenerateResource.cache
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member Maintenance.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member Maintenance.exe
+D:\Libraries\Documents\Careers\TechDevs\TechDevs_Member Maintenance\obj\Debug\TechDevs_Member Maintenance.pdb
